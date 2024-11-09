@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwitterTerminator", "TwitterTerminator.csproj", "{C5A9E6BF-C604-4640-9E8F-7A5228550939}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{794F382A-B90E-4F83-8609-1866E2597B70}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5A9E6BF-C604-4640-9E8F-7A5228550939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A9E6BF-C604-4640-9E8F-7A5228550939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A9E6BF-C604-4640-9E8F-7A5228550939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A9E6BF-C604-4640-9E8F-7A5228550939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2B46220-2268-4374-83A2-C09C62A8E925}
+	EndGlobalSection
+EndGlobal
